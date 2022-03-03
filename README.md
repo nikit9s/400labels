@@ -1,4 +1,4 @@
-# h1 Formation of a structured set of cardiologicaldata for their intellectual analysis.
+# Formation of a structured set of cardiologicaldata for their intellectual analysis.
 The developed software is intended for
 formation of a database of structured data generated during
 time of appointment with a cardiologist. Formed set
