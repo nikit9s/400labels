@@ -1,4 +1,4 @@
-#Formation of a structured set of cardiological
+#Formation of a structured set of cardiological#
 data for their intellectual analysis
 The developed software is intended for
 formation of a database of structured data generated during
